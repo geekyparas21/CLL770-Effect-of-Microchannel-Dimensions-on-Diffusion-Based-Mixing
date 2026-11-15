@@ -35,7 +35,10 @@ The study examines the influence of outlet-channel dimensions on mixing performa
 
 ## Authors
 
-Shweta Chandra and project collaborators
+Shweta Chandra (2023CH70790)
+Rishabh Joshi (2023CH70399)
+Paras Kansal (2023CH10196)
+
 
 ## Note
 
